@@ -1,0 +1,63 @@
+/* GOOGLE FONT */
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  background: #f4f4f4;
+  text-align: center;
+}
+
+/* TOP SECTION */
+.top {
+  background: #2c3e50;
+  color: white;
+  padding: 30px;
+}
+
+/* PROFILE IMAGE (CIRCLE) */
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+  display: block;
+  margin: 0 auto;
+}
+
+/* NAME */
+h1 {
+  margin: 10px 0 5px;
+}
+
+/* TAGLINE */
+.tagline {
+  font-size: 18px;
+  color: #ccc;
+}
+
+/* SECTIONS */
+section {
+  background: white;
+  margin: 20px auto;
+  padding: 20px;
+  width: 80%;
+  border-radius: 10px;
+  text-align: left;
+}
+
+/* HEADINGS */
+h2 {
+  color: #2c3e50;
+}
+
+/* LIST */
+ul {
+  padding-left: 20px;
+}
+
+/* FOOTER */
+footer {
+  background: #2c3e50;
+  color: white;
+  padding: 10px;
+}
